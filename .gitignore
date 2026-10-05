@@ -24,3 +24,15 @@ htmlcov/
 .idea/
 *.swp
 *.swo
+
+# Build & egg-info
+*.egg-info/
+dist/
+build/
+
+# LangGraph CLI
+.langgraph_api/
+
+# Document data
+data/
+data/*
